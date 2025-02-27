@@ -38,6 +38,13 @@ h2 {
   color: #FFFFFF;
 }
 
+h3 {
+  font:serif;
+  font-weight: bold;
+  line-height: 1.2;
+  color: #FFFFFF;
+}
+
 footer {
   font:serif;
   font-size: 24px;
