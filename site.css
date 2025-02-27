@@ -64,11 +64,11 @@ font {
 
 .button-like {
   padding: 10px 15px;
-  background-color: #007bff;
+  background-color: #7d05b5;
   color: white;
   border: none;
   border-radius: 5px;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 24px;
 }
