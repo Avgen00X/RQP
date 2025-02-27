@@ -45,3 +45,11 @@ footer {
   text-align: center;
   color: #f50213;
 }
+
+
+font {
+  font: Helvetica;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #000000;
+}
