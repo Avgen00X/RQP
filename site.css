@@ -40,9 +40,10 @@ h2 {
 
 h3 {
   font:serif;
+  font-size: 18px;
   font-weight: bold;
   line-height: 1.2;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 footer {
