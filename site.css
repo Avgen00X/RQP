@@ -48,10 +48,11 @@ h3 {
 
 footer {
   font:serif;
+  font-weight: bold;
   font-size: 24px;
   line-height: 1.2;
   text-align: center;
-  color: #f50213;
+  color: #FFFFFF;
 }
 
 
@@ -64,7 +65,7 @@ font {
 
 .button-like {
   padding: 10px 15px;
-  background-color: #7d05b5;
+  background-color: #000000;
   color: white;
   border: none;
   border-radius: 5px;
