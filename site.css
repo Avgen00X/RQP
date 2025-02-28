@@ -73,3 +73,7 @@ footer {
   display: inline-block;
   font-size: 24px;
 }
+
+.button-like:link {
+  color: #333333;
+}
