@@ -80,6 +80,6 @@ footer {
   font-size: 24px;
 }
 
-.button-like:link {
+.button-like a:link {
   color: #333333;
 }
