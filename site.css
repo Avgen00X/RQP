@@ -96,12 +96,12 @@ footer {
 
 .button-like a:focus {
   border-bottom: 1px solid;
-  background: #bae498;
+  color: #bae498;
 }
 
 .button-like a:hover {
   border-bottom: 1px solid;
-  background: #333333;
+  color: #333333;
 }
 
 .button-like a:active {
