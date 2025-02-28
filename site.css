@@ -10,7 +10,7 @@ p {
 .list a{
   outline: none;
   text-decoration: none;
-  padding: 5px 1px 0;
+  padding: 2px 1px 0;
 }
 
 .list a:link {
