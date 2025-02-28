@@ -14,11 +14,11 @@ p {
 }
 
 .list a:link {
-  color: #310062;
+  color: #800000;
 }
 
 .list a:visited {
-  color: #437a16;
+  color: #cb8777;
 }
 
 .list a:focus {
@@ -28,12 +28,12 @@ p {
 
 .list a:hover {
   border-bottom: 1px solid;
-  background: #cdfeaa;
+  background: #9b3928;
 }
 
 .list a:active {
-  background: #265301;
-  color: #cdfeaa;
+  background: #dfaea3;
+  color: #b4604e;
 }
 
 h2 {
