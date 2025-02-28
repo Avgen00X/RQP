@@ -82,3 +82,7 @@ footer {
 .button-like a:link {
   color: #FFFFFF;
 }
+
+.button-like a:visited {
+  color: #FFFFFF;
+}
