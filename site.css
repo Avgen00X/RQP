@@ -82,7 +82,7 @@ footer {
 .button-like a{
   outline: none;
   text-decoration: none;
-  padding: 5px 1px 0;
+  color: #FFFFFF;
 }
 
 .button-like a:link {
