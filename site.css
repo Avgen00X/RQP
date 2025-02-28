@@ -37,7 +37,7 @@ p {
 }
 
 h2 {
-  font: algerian;
+  font-family: algerian;
   font-size: 26px;
   font-weight: bold;
   line-height: 1.2;
