@@ -83,11 +83,11 @@ footer {
 
 
 .button-like:hover {
-  background-color: #959595
+  background-color: #959595;
   color: #333333;
 }
 
 .button-like:active {
-  background-color: #959595;
+  background-color: #292929;
   color: #ff0000;
 }
