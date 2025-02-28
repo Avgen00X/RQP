@@ -89,6 +89,6 @@ footer {
 }
 
 .button-like:active {
-  background: #red;
-  color: #cdfeaa;
+  background-color: #959595;
+  color: #red;
 }
